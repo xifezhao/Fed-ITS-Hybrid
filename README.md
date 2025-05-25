@@ -6,7 +6,7 @@ This repository implements "Fed-ITS-Hybrid," a federated learning (FL) framework
 
 Traditional Federated Learning (e.g., FedAvg) often struggles when client data is non-IID (Independent and Identically Distributed). Fed-ITS-Hybrid addresses this by:
 
-![Federated Learning Hierarchical Model Architecture](Federated Learning Hierarchical Model Architecture.pdf)
+![Federated Learning Hierarchical Model Architecture](Federated Learning Hierarchical Model Architecture.png)
 
 1.  **Hierarchical Model Structure:** Each client's model is a combination of:
     *   **Global Model (GB):** Learns common features shared across all clients.
