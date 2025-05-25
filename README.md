@@ -8,8 +8,6 @@ Traditional Federated Learning (e.g., FedAvg) often struggles when client data i
 
 ![Federated Learning Hierarchical Model Architecture](Federated_Learning_Hierarchical_Model_Architecture.png)
 
-![Federated Learning Hierarchical Model Architecture](Federated_Learning_Hierarchical_Model_Architecture.png)
-
 1.  **Hierarchical Model Structure:** Each client's model is a combination of:
     *   **Global Model (GB):** Learns common features shared across all clients.
     *   **Cluster-Specific Model (CS):** Learns features shared among a sub-group (cluster) of clients.
